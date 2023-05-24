@@ -17,6 +17,7 @@ public class VarEx3 {
 		
 		System.out.println(10.);
 		System.out.println(.10);
+		System.out.println(l);
 		System.out.println(10f);
 		System.out.println(1e3);
 	}
